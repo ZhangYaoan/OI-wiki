@@ -63,4 +63,5 @@ int main() {
   kruskal();
   return 0;
 }
+
 // test

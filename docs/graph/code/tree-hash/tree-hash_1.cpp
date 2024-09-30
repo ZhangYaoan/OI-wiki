@@ -48,4 +48,5 @@ int main() {
   getHash(1, 0);
   printf("%lu", trees.size());
 }
+
 // test

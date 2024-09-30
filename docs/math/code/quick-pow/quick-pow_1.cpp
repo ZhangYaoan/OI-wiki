@@ -43,4 +43,5 @@ int main() {
       printf("%d", b[i]);
   }
 }
+
 // test

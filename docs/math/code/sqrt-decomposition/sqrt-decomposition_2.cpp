@@ -27,4 +27,5 @@ int main() {
     std::cout << (ans[i] += ans[i - 1]) << " \n"[i == maxn];
   return 0;
 }
+
 // test

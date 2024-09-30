@@ -26,4 +26,5 @@ int main() {
     }
   cout << g[m][n];
 }
+
 // test

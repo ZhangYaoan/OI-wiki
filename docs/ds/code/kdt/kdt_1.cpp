@@ -94,4 +94,5 @@ int main() {
   printf("%.4lf\n", sqrt(ans));
   return 0;
 }
+
 // test

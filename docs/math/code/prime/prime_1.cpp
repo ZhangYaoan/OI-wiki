@@ -32,4 +32,5 @@ int main() {
   printf("%llu\n", ans);
   return 0;
 }
+
 // test
