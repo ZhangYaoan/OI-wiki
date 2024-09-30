@@ -53,3 +53,4 @@ int main() {
   work();
   cout << sum[n] - m * v;
 }
+// test

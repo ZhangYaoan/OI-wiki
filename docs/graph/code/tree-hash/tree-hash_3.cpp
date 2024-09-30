@@ -88,3 +88,4 @@ int main() {
     centroid[0] = centroid[1] = 0;
   }
 }
+// test
